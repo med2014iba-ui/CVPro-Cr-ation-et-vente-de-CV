@@ -1,0 +1,512 @@
+{
+  "version": 4,
+  "app_title": "CVPro — plan de lancement",
+  "nav": {
+    "placement": "none",
+    "items": []
+  },
+  "pages": [
+    {
+      "id": "page-dbda7d10",
+      "name": "Accueil",
+      "route": "/",
+      "item_ref": {
+        "index": 1,
+        "text": "Créer les pages publiques responsive Accueil, Modèles, Prix, À propos, Contact, FAQ, Confidentialité et Conditions avec aperçus authentiques des cinq modèles, navigation claire, contenus en français et titres/descriptions SEO."
+      },
+      "blocks": [
+        {
+          "id": "home-nav",
+          "type": "nav",
+          "label": "Navigation publique",
+          "hint": "Logo CVPro, liens Modèles, Prix, À propos, FAQ et connexion",
+          "x": 0,
+          "y": 0,
+          "w": 12,
+          "h": 1,
+          "item_ref": {
+            "index": 1,
+            "text": "Créer les pages publiques responsive Accueil, Modèles, Prix, À propos, Contact, FAQ, Confidentialité et Conditions avec aperçus authentiques des cinq modèles, navigation claire, contenus en français et titres/descriptions SEO."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "home-hero",
+          "type": "hero",
+          "label": "Créez un CV professionnel en quelques minutes",
+          "hint": "Sous-titre et CTA Créer mon CV",
+          "x": 0,
+          "y": 1,
+          "w": 12,
+          "h": 4,
+          "item_ref": {
+            "index": 1,
+            "text": "Créer les pages publiques responsive Accueil, Modèles, Prix, À propos, Contact, FAQ, Confidentialité et Conditions avec aperçus authentiques des cinq modèles, navigation claire, contenus en français et titres/descriptions SEO."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "home-models",
+          "type": "card_grid",
+          "label": "Aperçu des cinq modèles",
+          "hint": "Moderne, Classique, Élégant, Minimaliste, Créatif",
+          "x": 0,
+          "y": 5,
+          "w": 12,
+          "h": 4,
+          "item_ref": {
+            "index": 1,
+            "text": "Créer les pages publiques responsive Accueil, Modèles, Prix, À propos, Contact, FAQ, Confidentialité et Conditions avec aperçus authentiques des cinq modèles, navigation claire, contenus en français et titres/descriptions SEO."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "home-steps",
+          "type": "text",
+          "label": "Comment ça marche ?",
+          "hint": "Choisir, personnaliser, télécharger",
+          "x": 0,
+          "y": 9,
+          "w": 12,
+          "h": 3,
+          "item_ref": {
+            "index": 1,
+            "text": "Créer les pages publiques responsive Accueil, Modèles, Prix, À propos, Contact, FAQ, Confidentialité et Conditions avec aperçus authentiques des cinq modèles, navigation claire, contenus en français et titres/descriptions SEO."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "home-footer",
+          "type": "footer",
+          "label": "Liens utiles",
+          "hint": "Contact, confidentialité, conditions",
+          "x": 0,
+          "y": 12,
+          "w": 12,
+          "h": 2,
+          "item_ref": {
+            "index": 1,
+            "text": "Créer les pages publiques responsive Accueil, Modèles, Prix, À propos, Contact, FAQ, Confidentialité et Conditions avec aperçus authentiques des cinq modèles, navigation claire, contenus en français et titres/descriptions SEO."
+          },
+          "type_source": "palette"
+        }
+      ],
+      "deleted_ids": []
+    },
+    {
+      "id": "page-7420326b",
+      "name": "Modèles de CV",
+      "route": "/modeles",
+      "item_ref": {
+        "index": 1,
+        "text": "Créer les pages publiques responsive Accueil, Modèles, Prix, À propos, Contact, FAQ, Confidentialité et Conditions avec aperçus authentiques des cinq modèles, navigation claire, contenus en français et titres/descriptions SEO."
+      },
+      "blocks": [
+        {
+          "id": "models-nav",
+          "type": "nav",
+          "label": "Navigation publique",
+          "hint": "Liens vers les pages publiques et connexion",
+          "x": 0,
+          "y": 0,
+          "w": 12,
+          "h": 1,
+          "item_ref": {
+            "index": 1,
+            "text": "Créer les pages publiques responsive Accueil, Modèles, Prix, À propos, Contact, FAQ, Confidentialité et Conditions avec aperçus authentiques des cinq modèles, navigation claire, contenus en français et titres/descriptions SEO."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "models-heading",
+          "type": "header",
+          "label": "Choisissez votre modèle",
+          "hint": "Présentation des styles et compatibilité A4",
+          "x": 0,
+          "y": 1,
+          "w": 12,
+          "h": 2,
+          "item_ref": {
+            "index": 1,
+            "text": "Créer les pages publiques responsive Accueil, Modèles, Prix, À propos, Contact, FAQ, Confidentialité et Conditions avec aperçus authentiques des cinq modèles, navigation claire, contenus en français et titres/descriptions SEO."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "models-gallery",
+          "type": "card_grid",
+          "label": "Galerie des modèles",
+          "hint": "Cinq aperçus et bouton Utiliser ce modèle",
+          "x": 0,
+          "y": 3,
+          "w": 12,
+          "h": 6,
+          "item_ref": {
+            "index": 1,
+            "text": "Créer les pages publiques responsive Accueil, Modèles, Prix, À propos, Contact, FAQ, Confidentialité et Conditions avec aperçus authentiques des cinq modèles, navigation claire, contenus en français et titres/descriptions SEO."
+          },
+          "type_source": "palette"
+        }
+      ],
+      "deleted_ids": []
+    },
+    {
+      "id": "page-3c36be03",
+      "name": "Prix et informations",
+      "route": "/prix",
+      "item_ref": {
+        "index": 1,
+        "text": "Créer les pages publiques responsive Accueil, Modèles, Prix, À propos, Contact, FAQ, Confidentialité et Conditions avec aperçus authentiques des cinq modèles, navigation claire, contenus en français et titres/descriptions SEO."
+      },
+      "blocks": [
+        {
+          "id": "info-nav",
+          "type": "nav",
+          "label": "Navigation publique",
+          "hint": "Liens vers Accueil, Modèles et informations",
+          "x": 0,
+          "y": 0,
+          "w": 12,
+          "h": 1,
+          "item_ref": {
+            "index": 1,
+            "text": "Créer les pages publiques responsive Accueil, Modèles, Prix, À propos, Contact, FAQ, Confidentialité et Conditions avec aperçus authentiques des cinq modèles, navigation claire, contenus en français et titres/descriptions SEO."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "pricing-heading",
+          "type": "header",
+          "label": "Tarification transparente",
+          "hint": "Création gratuite, téléchargement PDF premium",
+          "x": 0,
+          "y": 1,
+          "w": 12,
+          "h": 2,
+          "item_ref": {
+            "index": 1,
+            "text": "Créer les pages publiques responsive Accueil, Modèles, Prix, À propos, Contact, FAQ, Confidentialité et Conditions avec aperçus authentiques des cinq modèles, navigation claire, contenus en français et titres/descriptions SEO."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "pricing-cards",
+          "type": "card_grid",
+          "label": "Offres et réponses utiles",
+          "hint": "Prix administrable, renvois vers FAQ et contact",
+          "x": 0,
+          "y": 3,
+          "w": 12,
+          "h": 4,
+          "item_ref": {
+            "index": 1,
+            "text": "Créer les pages publiques responsive Accueil, Modèles, Prix, À propos, Contact, FAQ, Confidentialité et Conditions avec aperçus authentiques des cinq modèles, navigation claire, contenus en français et titres/descriptions SEO."
+          },
+          "type_source": "palette"
+        }
+      ],
+      "deleted_ids": []
+    },
+    {
+      "id": "page-8efaefa2",
+      "name": "Créer un CV",
+      "route": "/creer",
+      "item_ref": {
+        "index": 2,
+        "text": "Construire l’éditeur de CV par étapes avec ajout/modification/suppression des rubriques, photo facultative, sélection des cinq modèles sans perte de données, aperçu A4, validation, sauvegarde et espace « Mon CV » pour créer, reprendre, dupliquer et supprimer plusieurs CV ; intégrer la connexion, la déconnexion et le profil utilisateur."
+      },
+      "blocks": [
+        {
+          "id": "editor-nav",
+          "type": "nav",
+          "label": "Navigation de l’éditeur",
+          "hint": "Logo, sauvegarde, Mon CV et compte",
+          "x": 0,
+          "y": 0,
+          "w": 12,
+          "h": 1,
+          "item_ref": {
+            "index": 2,
+            "text": "Construire l’éditeur de CV par étapes avec ajout/modification/suppression des rubriques, photo facultative, sélection des cinq modèles sans perte de données, aperçu A4, validation, sauvegarde et espace « Mon CV » pour créer, reprendre, dupliquer et supprimer plusieurs CV ; intégrer la connexion, la déconnexion et le profil utilisateur."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "editor-steps",
+          "type": "sidebar",
+          "label": "Étapes du formulaire",
+          "hint": "Identité, profil, parcours, compétences et compléments",
+          "x": 0,
+          "y": 1,
+          "w": 2,
+          "h": 7,
+          "item_ref": {
+            "index": 2,
+            "text": "Construire l’éditeur de CV par étapes avec ajout/modification/suppression des rubriques, photo facultative, sélection des cinq modèles sans perte de données, aperçu A4, validation, sauvegarde et espace « Mon CV » pour créer, reprendre, dupliquer et supprimer plusieurs CV ; intégrer la connexion, la déconnexion et le profil utilisateur."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "editor-form",
+          "type": "form",
+          "label": "Saisie du CV",
+          "hint": "Champs validés et sections répétables",
+          "x": 2,
+          "y": 1,
+          "w": 5,
+          "h": 7,
+          "item_ref": {
+            "index": 2,
+            "text": "Construire l’éditeur de CV par étapes avec ajout/modification/suppression des rubriques, photo facultative, sélection des cinq modèles sans perte de données, aperçu A4, validation, sauvegarde et espace « Mon CV » pour créer, reprendre, dupliquer et supprimer plusieurs CV ; intégrer la connexion, la déconnexion et le profil utilisateur."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "editor-preview",
+          "type": "text",
+          "label": "Prévisualisation A4",
+          "hint": "Rendu actualisé selon le modèle choisi",
+          "x": 7,
+          "y": 1,
+          "w": 5,
+          "h": 7,
+          "item_ref": {
+            "index": 2,
+            "text": "Construire l’éditeur de CV par étapes avec ajout/modification/suppression des rubriques, photo facultative, sélection des cinq modèles sans perte de données, aperçu A4, validation, sauvegarde et espace « Mon CV » pour créer, reprendre, dupliquer et supprimer plusieurs CV ; intégrer la connexion, la déconnexion et le profil utilisateur."
+          },
+          "type_source": "palette"
+        }
+      ],
+      "deleted_ids": []
+    },
+    {
+      "id": "page-37edc9c4",
+      "name": "Mon CV",
+      "route": "/mes-cv",
+      "item_ref": {
+        "index": 2,
+        "text": "Construire l’éditeur de CV par étapes avec ajout/modification/suppression des rubriques, photo facultative, sélection des cinq modèles sans perte de données, aperçu A4, validation, sauvegarde et espace « Mon CV » pour créer, reprendre, dupliquer et supprimer plusieurs CV ; intégrer la connexion, la déconnexion et le profil utilisateur."
+      },
+      "blocks": [
+        {
+          "id": "library-nav",
+          "type": "nav",
+          "label": "Navigation du compte",
+          "hint": "Retour éditeur, profil et déconnexion",
+          "x": 0,
+          "y": 0,
+          "w": 12,
+          "h": 1,
+          "item_ref": {
+            "index": 2,
+            "text": "Construire l’éditeur de CV par étapes avec ajout/modification/suppression des rubriques, photo facultative, sélection des cinq modèles sans perte de données, aperçu A4, validation, sauvegarde et espace « Mon CV » pour créer, reprendre, dupliquer et supprimer plusieurs CV ; intégrer la connexion, la déconnexion et le profil utilisateur."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "library-header",
+          "type": "header",
+          "label": "Mes CV",
+          "hint": "Créer un nouveau CV",
+          "x": 0,
+          "y": 1,
+          "w": 12,
+          "h": 2,
+          "item_ref": {
+            "index": 2,
+            "text": "Construire l’éditeur de CV par étapes avec ajout/modification/suppression des rubriques, photo facultative, sélection des cinq modèles sans perte de données, aperçu A4, validation, sauvegarde et espace « Mon CV » pour créer, reprendre, dupliquer et supprimer plusieurs CV ; intégrer la connexion, la déconnexion et le profil utilisateur."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "library-cards",
+          "type": "card_grid",
+          "label": "CV enregistrés",
+          "hint": "Dernière modification, modifier, dupliquer, supprimer, télécharger",
+          "x": 0,
+          "y": 3,
+          "w": 12,
+          "h": 6,
+          "item_ref": {
+            "index": 2,
+            "text": "Construire l’éditeur de CV par étapes avec ajout/modification/suppression des rubriques, photo facultative, sélection des cinq modèles sans perte de données, aperçu A4, validation, sauvegarde et espace « Mon CV » pour créer, reprendre, dupliquer et supprimer plusieurs CV ; intégrer la connexion, la déconnexion et le profil utilisateur."
+          },
+          "type_source": "palette"
+        }
+      ],
+      "deleted_ids": []
+    },
+    {
+      "id": "page-fa3e12a4",
+      "name": "Compte",
+      "route": "/profil",
+      "item_ref": {
+        "index": 2,
+        "text": "Construire l’éditeur de CV par étapes avec ajout/modification/suppression des rubriques, photo facultative, sélection des cinq modèles sans perte de données, aperçu A4, validation, sauvegarde et espace « Mon CV » pour créer, reprendre, dupliquer et supprimer plusieurs CV ; intégrer la connexion, la déconnexion et le profil utilisateur."
+      },
+      "blocks": [
+        {
+          "id": "profile-nav",
+          "type": "nav",
+          "label": "Navigation du compte",
+          "hint": "Accès à Mon CV et déconnexion",
+          "x": 0,
+          "y": 0,
+          "w": 12,
+          "h": 1,
+          "item_ref": {
+            "index": 2,
+            "text": "Construire l’éditeur de CV par étapes avec ajout/modification/suppression des rubriques, photo facultative, sélection des cinq modèles sans perte de données, aperçu A4, validation, sauvegarde et espace « Mon CV » pour créer, reprendre, dupliquer et supprimer plusieurs CV ; intégrer la connexion, la déconnexion et le profil utilisateur."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "profile-form",
+          "type": "form",
+          "label": "Profil utilisateur",
+          "hint": "Identité du compte et préférences accessibles",
+          "x": 0,
+          "y": 1,
+          "w": 12,
+          "h": 5,
+          "item_ref": {
+            "index": 2,
+            "text": "Construire l’éditeur de CV par étapes avec ajout/modification/suppression des rubriques, photo facultative, sélection des cinq modèles sans perte de données, aperçu A4, validation, sauvegarde et espace « Mon CV » pour créer, reprendre, dupliquer et supprimer plusieurs CV ; intégrer la connexion, la déconnexion et le profil utilisateur."
+          },
+          "type_source": "palette"
+        }
+      ],
+      "deleted_ids": []
+    },
+    {
+      "id": "page-09d0c5ab",
+      "name": "Paiement",
+      "route": "/paiement",
+      "item_ref": {
+        "index": 3,
+        "text": "Finaliser le parcours gratuit → paiement de démonstration clairement indiqué → PDF A4 téléchargeable après achat ; ajouter l’assistant IA réel pour améliorer et adapter le texte, puis un espace administrateur protégé pour consulter utilisateurs, CV, ventes et paiements et gérer modèles et prix."
+      },
+      "blocks": [
+        {
+          "id": "checkout-nav",
+          "type": "nav",
+          "label": "Navigation du compte",
+          "hint": "Retour au CV et au compte",
+          "x": 0,
+          "y": 0,
+          "w": 12,
+          "h": 1,
+          "item_ref": {
+            "index": 3,
+            "text": "Finaliser le parcours gratuit → paiement de démonstration clairement indiqué → PDF A4 téléchargeable après achat ; ajouter l’assistant IA réel pour améliorer et adapter le texte, puis un espace administrateur protégé pour consulter utilisateurs, CV, ventes et paiements et gérer modèles et prix."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "checkout-preview",
+          "type": "text",
+          "label": "Votre CV",
+          "hint": "Récapitulatif du modèle et aperçu",
+          "x": 0,
+          "y": 1,
+          "w": 7,
+          "h": 5,
+          "item_ref": {
+            "index": 3,
+            "text": "Finaliser le parcours gratuit → paiement de démonstration clairement indiqué → PDF A4 téléchargeable après achat ; ajouter l’assistant IA réel pour améliorer et adapter le texte, puis un espace administrateur protégé pour consulter utilisateurs, CV, ventes et paiements et gérer modèles et prix."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "checkout-order",
+          "type": "form",
+          "label": "Commande",
+          "hint": "Prix, mention explicite de démonstration, confirmation sans carte bancaire",
+          "x": 7,
+          "y": 1,
+          "w": 5,
+          "h": 5,
+          "item_ref": {
+            "index": 3,
+            "text": "Finaliser le parcours gratuit → paiement de démonstration clairement indiqué → PDF A4 téléchargeable après achat ; ajouter l’assistant IA réel pour améliorer et adapter le texte, puis un espace administrateur protégé pour consulter utilisateurs, CV, ventes et paiements et gérer modèles et prix."
+          },
+          "type_source": "palette"
+        }
+      ],
+      "deleted_ids": []
+    },
+    {
+      "id": "page-74b32e1f",
+      "name": "Administration",
+      "route": "/admin",
+      "item_ref": {
+        "index": 3,
+        "text": "Finaliser le parcours gratuit → paiement de démonstration clairement indiqué → PDF A4 téléchargeable après achat ; ajouter l’assistant IA réel pour améliorer et adapter le texte, puis un espace administrateur protégé pour consulter utilisateurs, CV, ventes et paiements et gérer modèles et prix."
+      },
+      "blocks": [
+        {
+          "id": "admin-nav",
+          "type": "nav",
+          "label": "Navigation administrateur",
+          "hint": "Vue d’ensemble et retour au site",
+          "x": 0,
+          "y": 0,
+          "w": 12,
+          "h": 1,
+          "item_ref": {
+            "index": 3,
+            "text": "Finaliser le parcours gratuit → paiement de démonstration clairement indiqué → PDF A4 téléchargeable après achat ; ajouter l’assistant IA réel pour améliorer et adapter le texte, puis un espace administrateur protégé pour consulter utilisateurs, CV, ventes et paiements et gérer modèles et prix."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "admin-stats",
+          "type": "kpi",
+          "label": "Indicateurs",
+          "hint": "Utilisateurs, CV, ventes et chiffre d’affaires de démonstration",
+          "x": 0,
+          "y": 1,
+          "w": 12,
+          "h": 2,
+          "item_ref": {
+            "index": 3,
+            "text": "Finaliser le parcours gratuit → paiement de démonstration clairement indiqué → PDF A4 téléchargeable après achat ; ajouter l’assistant IA réel pour améliorer et adapter le texte, puis un espace administrateur protégé pour consulter utilisateurs, CV, ventes et paiements et gérer modèles et prix."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "admin-activity",
+          "type": "table",
+          "label": "Activité et paiements",
+          "hint": "Listes des comptes, CV et commandes",
+          "x": 0,
+          "y": 3,
+          "w": 8,
+          "h": 5,
+          "item_ref": {
+            "index": 3,
+            "text": "Finaliser le parcours gratuit → paiement de démonstration clairement indiqué → PDF A4 téléchargeable après achat ; ajouter l’assistant IA réel pour améliorer et adapter le texte, puis un espace administrateur protégé pour consulter utilisateurs, CV, ventes et paiements et gérer modèles et prix."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "admin-management",
+          "type": "form",
+          "label": "Modèles et prix",
+          "hint": "Activer les modèles et modifier le tarif",
+          "x": 8,
+          "y": 3,
+          "w": 4,
+          "h": 5,
+          "item_ref": {
+            "index": 3,
+            "text": "Finaliser le parcours gratuit → paiement de démonstration clairement indiqué → PDF A4 téléchargeable après achat ; ajouter l’assistant IA réel pour améliorer et adapter le texte, puis un espace administrateur protégé pour consulter utilisateurs, CV, ventes et paiements et gérer modèles et prix."
+          },
+          "type_source": "palette"
+        }
+      ],
+      "deleted_ids": []
+    }
+  ],
+  "attached_to_plan": false
+}
